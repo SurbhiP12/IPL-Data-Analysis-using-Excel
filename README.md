@@ -3,7 +3,7 @@ Hi!This is Surbhi.
 I have started my data analytics journey.
 In this data analysis project, I have analyzed IPL data from 2008 to 2020 and have drawn some extremely useful insights and trends.
 First,I collected IPL data from kaggle and winner list for different seasons in IPL from google.
- Analysis using Excel Microsoft Excel(Pivot Tables, Pivot Chart, XLOOKUP,Slicers.)
+Analysis using Excel Microsoft Excel(Pivot Tables, Pivot Chart, XLOOKUP,Slicers.)
 I used pivot tables to quickly summarize and analyze large amounts of IPL data by different dimensions and metrics.
 I created charts and graphs to visually represent the data and identify trends, patterns, and outliers.I used bar chart,column chart,doughnut chart,trendmaps 
 etc to present my analysis.
